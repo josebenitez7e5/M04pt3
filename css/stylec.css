@@ -1,0 +1,137 @@
+head{
+    
+    align-items: center;
+  }
+  a:link {
+      text-decoration: none;
+    }
+    
+    a:visited {
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+      color: #7ABA96;
+    }
+    
+    a:active {
+      text-decoration: underline;
+    }
+  a{
+      color: #8A8070;
+  }
+  
+  body{
+      
+      color: #8A8070;
+      text-align: center;
+     
+      
+      
+      
+  }
+  #nav nav{
+      position: sticky;
+      left: 45%;
+  }
+  
+  #aside{
+      position: absolute;
+      width: 10%;
+      height: 45%;
+      
+      left: 7%;
+      top: 20%;
+     
+  }
+  #libro{
+      background-color: gainsboro;
+  }
+  aside h4{
+      background-color: #7ABA96;
+  }
+  #B1{
+      
+      width: 30%;
+      height: 40%;
+      position: relative;
+      display: inline-block;
+      
+  }
+  
+  #B2{
+      
+      width: 30%;
+      height: 40%;
+      position: relative;
+      display: inline-block;
+      
+  }
+  #B2 div{
+      position: relative;
+      width: 80%;
+      
+  
+  }
+  #B1 div{
+      position: relative;
+      width: 80%;
+  
+  }
+  
+  .flip-card {
+      background-color: transparent;
+      width: 20%;
+      height: 60%;
+      border: 1px solid #f1f1f1;
+      perspective: 1000px;
+      position: absolute;
+      display: inline-block;
+      right: 5%;
+  }
+  .flip-card-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.8s;
+      transform-style: preserve-3d;
+    }
+    .flip-card:hover .flip-card-inner {
+      transform: rotateY(180deg);
+    } 
+    .flip-card-front, .flip-card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+    } 
+    .flip-card-front {
+      background-color: #bbb;
+      color: black;
+    }
+    .flip-card-back {
+      background-color: #ddb09d;
+      color: white;
+      transform: rotateY(180deg);
+    }
+  footer{position: relative;
+    bottom: 50%;
+      
+      
+     
+  }
+  footer div{
+      position: relative;
+      align-items: center;
+     align-content: center;
+     bottom: 0%;
+     padding: 1%;
+     background-color: black;
+  }
+  footer div a{
+      color: white;
+  }
+  
