@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xslt"?>
+<cataleg>
+    <receta>
+    <nom>Fideos de arroz con salteado de tofu y pimiento</nom>
+    <dificultad>Media</dificultad>
+    <cocina>Asiática</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Ensalada de quinoa, calabaza asada y granada</nom>
+    <dificultad>Media</dificultad>
+    <cocina>Moderna</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>Sí</anticancer>
+  </receta>
+  <receta>
+    <nom>Tortilla de patatas vegana</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Moderna</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Revuelto vegano de tofu</nom>
+    <dificultad>Fácil</dificultad>
+    <cocina>Asiática</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Falafel ligero</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Árabe</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Tortilla jugosa vegana de calabacín</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Española</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Mantequilla de anacardos</nom>
+    <dificultad>Fácil</dificultad>
+    <cocina>Árabe</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Curry de garbanzos con mango</nom>
+    <dificultad>Fácil</dificultad>
+    <cocina>India</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Receta de burritos vegetarianos</nom>
+    <dificultad>Fácil</dificultad>
+    <cocina>Mejicana</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Filetes de seitán en salsa de pimienta</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>India</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Mini hamburguesas de aguacate y quinoa</nom>
+    <dificultad>Media</dificultad>
+    <cocina>Americana</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>Sí</anticancer>
+  </receta>
+  <receta>
+    <nom>Pasta con salsa de coliflor y pimienta de Jamaica</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Italiana</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Galletas de avena, rosa y lima</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Sueca</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>No</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Mijo cremoso con lentejas, hortalizas y shiitake</nom>
+    <dificultad>Media</dificultad>
+    <cocina>Latina</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>Sí</anticancer>
+  </receta>
+  <receta>
+    <nom>Calabacines rellenos de arroz negro y calabaza</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Italiana</cocina>
+    <vegetariana>Sí</vegetariana>
+    <celiacos>Sí</celiacos>
+    <anticancer>No</anticancer>
+  </receta>
+  <receta>
+    <nom>Covid-19</nom>
+    <dificultad>Difícil</dificultad>
+    <cocina>Mundial</cocina>
+    <vegetariana>No</vegetariana>
+    <celiacos>No creo</celiacos>
+    <anticancer>Sí</anticancer>
+  </receta>
+   <receta>
+    <nom>Covid Omicron</nom>
+    <dificultad>Soo Hard</dificultad>
+    <cocina>Universal</cocina>
+    <vegetariana>No</vegetariana>
+    <celiacos>No creo</celiacos>
+    <anticancer>Sí</anticancer>
+  </receta>
+</cataleg>  
